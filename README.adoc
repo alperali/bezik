@@ -4,7 +4,7 @@
 İki kişi arasında oynanan bir iskambil kağıdı oyunudur.
 
 == Amaç
-Puanlı kağıt kombinasyonlarını oluşturarak ve *_brisk_* denilen puanlı kağıtları toplayarak oyun sonunda en yüksek puanı elde etmektir.
+Puanlı kağıt kombinasyonlarını oluşturarak ve *_brisk_* denilen puanlı kağıtları toplayarak en yüksek puanı elde etmektir.
 
 == Deste
 4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır.
