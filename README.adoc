@@ -1,7 +1,7 @@
 = Bezik
 A. Alper Atıcı <alper.goplay@gmail.com>
 :açıklama: Bezik oyunu için işlevsel belirlemeler
-:desc: Functional specifications for Bezik
+:desc: Functional specifications for Türk Bezik
 :sectnums:
 
 İki kişi arasında oynanan bir iskambil kağıdı oyunudur.
@@ -10,7 +10,8 @@ A. Alper Atıcı <alper.goplay@gmail.com>
 Puanlı kağıt kombinasyonlarını oluşturarak ve *_brisk_* denilen puanlı kağıtları toplayarak en yüksek puanı elde etmektir.
 
 == Deste
-4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır.
+4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır. +
+Büyükten küçüğe doğru kağıtların dizilişi: ``A``{nbsp}``10``{nbsp}``K``{nbsp}``Q``{nbsp}``J``{nbsp}``9``
 
 == Puan tutma
 *_Marköz_* denilen mandallı tahtalar kullanılır. +
