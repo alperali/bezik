@@ -1,4 +1,7 @@
 = Bezik
+A. Alper Atıcı <alper.goplay@gmail.com>
+:açıklama: Bezik oyunu için işlevsel belirlemeler
+:desc: Functional specifications for Bezik
 :sectnums:
 
 İki kişi arasında oynanan bir iskambil kağıdı oyunudur.
