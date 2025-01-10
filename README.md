@@ -1,2 +1,2 @@
-# bezik
+# Bezik
 Türk bezik oyunu
