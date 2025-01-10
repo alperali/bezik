@@ -1,3 +1,29 @@
 = Bezik
+:sectnums:
 
-Türk bezik oyunu
+İki kişi arasında oynanan bir iskambil kağıdı oyunudur.
+
+== Amaç
+Puanlı kağıt kombinasyonlarını oluşturarak ve *_brisk_* denilen puanlı kağıtları toplayarak oyun sonunda en yüksek puanı elde etmektir.
+
+== Deste
+4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır.
+
+== Puan tutma
+*_Marköz_* denilen mandallı tahtalar kullanılır. +
+Kombinasyon puanları bir kombinasyon ortaya açıldığı anda, brisk puanları deste bittikten sonra sayılarak marköze yazılır.
+
+== Hükümler
+Deste bitince bir *_oyun turu_* tamamlanmış olur.
+Tur sonunda 3000 puana ulaşan taraf oyunu kazanır.
+3000 puana ulaşan yoksa bir tur daha oynanır.
+Her iki taraf da 3000 puana ulaşmışsa oyun 5000 puana uzar.
+
+== Maç
+Normal bir oyunu kazanan 1 *_maç puanı_* alır.
+2 normal oyundan sonra *_sanvuar_* oyunlarla maç devam eder.
+Sanvuar oyunu kazanan 2 maç puanı alır.
+*_Vido_* çekilmiş oyunu kazanan 2 katı maç puanı alır.
+Kaybeden taraf 1500 puanın altındaysa *_rubikon_* olur ve kazanan 2 katı maç puanı alır.
+Bir oyun sonunda kazanan taraf 8 maç puanına kadar alabilir (sanvuar + vido + rubikon).
+16 puana ulaşan maçı kazanır.
