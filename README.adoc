@@ -36,7 +36,7 @@ Yere bir kağıt atarak oyun turuna rakip başlar.
 
 === El
 Yere en büyük kağıdı atan eli alır, eşitlik durumunda ele başlayan eli alır.
-İmkanı olsa bile bir oyuncunun eli alması şart değildir.
+El almak zorunlu değildir.
 Bir eli oynarken, elde kapalı tutulan veya önceden yere açılmış puanlı gruptaki herhangi bir kağıt yere atılabilir.
 Bir oyuncunun desteden çektiği kağıt haricindeki tüm kağıtları yere açılmış olabilir.
 
