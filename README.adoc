@@ -27,7 +27,7 @@ Her iki taraf da 3000 puana ulaşmışsa oyun 5000 puana uzar.
 == Oyun
 İlk oyunda büyük kağıdı çeken kağıt #dağıtıcı# olur.
 Sonraki oyunlarda oyunu kazanan dağıtıcı olur.
-Bir oyun tek turda bitmezse sonraki tur #rakip# dağıtıcı olur.
+Bir oyun tek turda bitmezse sonraki turda #rakip# dağıtıcı olur.
 
 === Kağıt dağıtımı
 Dağıtıcı desteyi karıp yere bırakır, rakip desteyi keser ve kesimin üzerine kalan deste yarısını koyup desteyi yere bırakır.
