@@ -30,8 +30,8 @@ Sonraki oyunlarda oyunu kazanan dağıtıcı olur.
 Bir oyun tek turda bitmezse sonraki turda #rakip# dağıtıcı olur.
 
 === Kağıt dağıtımı
-Dağıtıcı desteyi karıp yere bırakır, rakip desteyi keser ve kesimin üzerine kalan deste yarısını koyup desteyi yere bırakır.
-Dağıtıcı bu desteyi alıp 3'er 3'er toplam 9 kağıt dağıtır. Kalan desteyi yere serer.
+Dağıtıcı desteyi karıp yere bırakır, rakip desteyi keser.
+Dağıtıcı kesilmiş desteyi bütünleyip 3'er 3'er toplam 9 kağıt dağıtır. Deste kalanını yere serer.
 Yere bir kağıt atarak oyun turuna rakip başlar. 
 
 === El
