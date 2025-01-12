@@ -8,7 +8,7 @@ A. Alper Atıcı <alper.goplay@gmail.com>
 İki kişi arasında oynanan bir iskambil kağıdı oyunudur.
 
 == Amaç
-Puanlı kağıt kombinasyonlarını oluşturarak ve #brisk# denilen puanlı kağıtları toplayarak en yüksek ##oyun puanı##nı almaktır.
+Puanlı kağıt gruplarını oluşturarak ve #brisk# denilen puanlı kağıtları toplayarak en yüksek ##oyun puanı##nı almaktır.
 
 == Deste
 4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır.
@@ -16,13 +16,37 @@ Büyükten küçüğe doğru kağıtların dizilişi: ``A``{nbsp}``10``{nbsp}``K
 
 == Puan tutma
 #Marköz# denilen mandallı tahtalar kullanılır. +
-Kombinasyon puanları bir kombinasyon ortaya açıldığı anda, brisk puanları deste bittikten sonra sayılarak marköze yazılır.
+Grup puanları bir grup yere açıldığı anda, brisk puanları deste bittikten sonra sayılarak marköze yazılır.
 
 == Hükümler
 Deste bitince bir #oyun turu# tamamlanmış olur.
-Tur sonunda 3000 puana ulaşan taraf oyunu kazanır.
+Tur sonunda 3000 puana ulaşan taraf ##oyun##u kazanır.
 3000 puana ulaşan yoksa bir tur daha oynanır.
 Her iki taraf da 3000 puana ulaşmışsa oyun 5000 puana uzar.
+
+== Oyun
+İlk oyunda büyük kağıdı çeken kağıt #dağıtıcı# olur.
+Sonraki oyunlarda oyunu kazanan dağıtıcı olur.
+Bir oyun tek turda bitmezse sonraki tur #rakip# dağıtıcı olur.
+
+=== Kağıt dağıtımı
+Dağıtıcı desteyi karıp yere bırakır, rakip desteyi keser ve kesimin üzerine kalan deste yarısını koyup desteyi yere bırakır.
+Dağıtıcı bu desteyi alıp 3'er 3'er toplam 9 kağıt dağıtır. Kalan desteyi yere serer.
+
+=== Başlangıç ve El
+Yere bir kağıt atarak oyun turuna rakip başlar. Dağıtıcı bu kağıttan üstün bir kağıt atarsa eli alır, yoksa rakip eli alır.
+İmkanı olsa bile bir oyuncunun eli alması şart değildir. Eli alan sonraki eli başlatır.
+
+Bir eli oynarken, elde kapalı tutulan veya önceden yere açılmış puanlı gruptaki herhangi bir kağıt yere atılabilir.
+Bir oyuncunun desteden çektiği kağıt haricindeki tüm kağıtları yere açılmış olabilir.
+
+Eli alan bu iki kağıdı ters çevirip yanına koyar.
+Bu aşamada sıfırdan veya önceden yere atarak bozduğu gruptaki eksikleri tamamlayarak puanlı bir grup açabilir ve puanını marköze yazar.
+Yerdeki desteden bir kağıt çeker, ondan sonra eli kaybeden desteden kağıt çeker.
+
+Ele başlayan, yere açılmış puanlı grubundaki herhangi bir kağıdın aynısını yere atarsa grup puanını tekrar kazanır ve marközüne yazar.
+Fakat karşı taraf bu eli alırsa ele başlayan #dönük# olur ve marköz tahtasında ilgili mandalı kaldırır.
+Dönük oyuncu bir el almadan bu durumdan kurtulamaz. Oyun turu bitene kadar el alamazsa marköze yazdığı grup puanı düşülür.
 
 == Maç
 Normal bir oyunu kazanan 1 #maç puanı# alır.
@@ -32,3 +56,4 @@ Sanvuar oyunu kazanan 2 maç puanı alır. +
 Kaybeden taraf 1500 puanın altındaysa #rubikon# olur ve kazanan 2 katı maç puanı alır. +
 Bir oyun sonunda kazanan taraf 8 maç puanına kadar alabilir (sanvuar + vido + rubikon).
 16 puana ulaşan maçı kazanır.
+
