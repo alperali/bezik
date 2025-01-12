@@ -47,7 +47,7 @@ Yerdeki desteden bir kağıt çeker, ondan sonra eli kaybeden desteden kağıt �
 Eli alan sonraki eli başlatır.
 Ele başlayan, yere açılmış puanlı grubundaki herhangi bir kağıdın aynısını yere atarsa grup puanını tekrar kazanır ve marközüne yazar.
 Fakat karşı taraf bu eli alırsa ele başlayan #dönük# olur ve marköz tahtasında ilgili mandalı kaldırır.
-Dönük oyuncu bir el almadan bu durumdan kurtulamaz. Oyun turu bitene kadar el alamazsa marköze yazdığı grup puanı düşülür.
+Dönük oyuncu bir el almadan bu durumdan kurtulamaz. Oyun turu bitene kadar dönük kalırsa marköze yazdığı grup puanı düşülür.
 
 == Maç
 Normal bir oyunu kazanan 1 #maç puanı# alır.
