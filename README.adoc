@@ -1,78 +1,7 @@
 = Bezik
 A. Alper Atıcı <alper.goplay@gmail.com>
 :lang: tr
-:açıklama: Bezik oyunu için işlevsel belirlemeler
-:description: Functional specifications for Türk Bezik
-:sectnums:
 
 2 kişiyle oynanan bir iskambil kağıdı oyunudur.
 
-== Amaç
-Puanlı kağıt gruplarını oluşturarak ve #brisk# denilen puanlı kağıtları toplayarak en yüksek ##oyun puanı##nı almaktır.
-
-== Deste
-4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır.
-
-=== Terimler
-bezik:: :spades:``Q`` :diamonds:``J`` çifti
-brisk:: ``A`` veya ``10``
-koz:: Yere ilk açılan aynı renk ``K``{nbsp}``Q`` çiftin rengi
-tablo / seri:: Aynı renk ``A``{nbsp}``10``{nbsp}``K``{nbsp}``Q``{nbsp}``J`` grubu
-
-=== Sıralanış
-Büyükten küçüğe doğru kağıtların dizilişi: ``A``{nbsp}``10``{nbsp}``K``{nbsp}``Q``{nbsp}``J``{nbsp}``9`` +
-Herhangi bir koz kağıdı diğer renklerin tüm kağıtlarından büyüktür.
-
-== Puan tutma
-#Marköz# denilen mandallı tahtalar kullanılır. +
-Grup puanları bir grup yere açıldığı anda, brisk puanları deste bittikten sonra sayılarak marköze yazılır.
-
-== [[hükümler]]Hükümler
-Deste bitince bir #oyun turu# tamamlanmış olur.
-Tur sonunda 3000 puana ulaşan taraf ##oyun##u kazanır.
-3000 puana ulaşan yoksa bir tur daha oynanır.
-Her iki taraf da 3000 puana ulaşmışsa oyun 5000 puana uzar.
-
-== Oyun
-İlk oyunda büyük kağıdı çeken #dağıtıcı# olur.
-Sonraki oyunlarda oyunu kazanan dağıtıcı olur.
-Bir oyun tek turda bitmezse sonraki turda #rakip# dağıtıcı olur.
-
-=== Kağıt dağıtımı
-Dağıtıcı desteyi karıp yere bırakır, rakip desteyi keser.
-Dağıtıcı kesilmiş desteyi bütünleyip 3'er 3'er toplam 9 kağıt dağıtır. Deste kalanını yere serer.
-Yere bir kağıt atarak oyun turuna rakip başlar. 
-
-=== El
-. Yere en büyük kağıdı atan eli alır, eşitlik durumunda eli başlatan eli alır.
-El almak zorunlu değildir.
-Bir eli oynarken, kapalı tutulan veya önceden yere açılmış puanlı gruptaki herhangi bir kağıt yere atılabilir.
-Bir oyuncunun desteden çektiği kağıt haricindeki tüm kağıtları yere açılmış olabilir.
-
-. Eli alan bu iki kağıdı ters çevirip yanına koyar.
-Bu aşamada sıfırdan veya önceden yere atarak bozduğu gruptaki eksikleri tamamlayarak puanlı bir grup açabilir ve puanını marköze yazar.
-Yerdeki desteden bir kağıt çeker, ondan sonra eli kaybeden desteden kağıt çeker.
-
-. Eli alan sonraki eli başlatır.
-Eli başlatan, yere açılmış puanlı grubundaki herhangi bir kağıdın aynısını yere atarsa grup puanını tekrar kazanır ve marközüne yazar.
-Fakat karşı taraf bu eli alırsa ele başlayan #dönük# olur ve marköz tahtasında ilgili mandalı kaldırır.
-Dönük oyuncu bir el almadan bu durumdan kurtulamaz. Oyun turu bitene kadar dönük kalırsa marköze yazdığı grup puanı düşülür.
-
-=== Tur Sonu
-Desteden son kağıtlar çekildikten sonra, varsa yerdeki açık kağıtlar ele alınarak, 9 el daha oynanır.
-Bu bölümde el almak, el alınamıyorsa yerdeki ile aynı renk kağıt atmak zorunludur.
-Son eli alan bu turda koz tablosu açılmışsa 250, sadece koz açılmışsa 40 oyun puanı kazanır.
-Her iki taraf aldığı eller içindeki brisk puanlarını toplayıp oyun puanına ekler.
-<<hükümler,Hükümler>>e göre tur sonuçlanır.
-
-== Maç
-. Normal bir oyunu kazanan 1 #maç puanı# alır. 2 normal oyundan sonra #sanvuar# oyunlarla maç devam eder. +
-Sanvuar oyunu kazanan 2 maç puanı alır. +
-#Vido# çekilmiş oyunu kazanan 2 katı maç puanı alır. #Kontr vido# (2 defa vido) çekilmiş oyunu kazanan 4 katı maç puanı alır. +
-Kaybeden taraf 1500 puanın altındaysa #rubikon# olur ve kazanan 2 katı maç puanı alır. +
-16 puana ulaşan maçı kazanır.
-
-. Vido çekilmiş sanvuar oyundan sonra normal oyunla devam edilir. +
-Vido çekildikten hemen sonra karşı taraf yenilgiyi kabul ederek oyunu bitirebilir. +
-İlk vidoyu çeken kontr vido çekemez.
-
+* xref:functional_specs.adoc[İşlevsel belirlemeler]
