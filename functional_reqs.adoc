@@ -76,3 +76,53 @@ Kaybeden taraf 1500 puanın altındaysa #rubikon# olur ve kazanan 2 katı maç p
 Vido çekildikten hemen sonra karşı taraf yenilgiyi kabul ederek oyunu bitirebilir. +
 İlk vidoyu çeken kontr vido çekemez.
 
+== Oyun Puanları Tablosu
+[cols="1,^1,^1,^1"]
+|===
+.2+|*Grup*
+.2+|*Koz*
+2+|*Diğer renk*
+
+|hepsi aynı
+|karışık
+
+|``K``{nbsp}``Q``
+|40
+|20
+| -
+
+4+|
+
+|``A``{nbsp}``10``{nbsp}``K``{nbsp}``Q``{nbsp}``J``
+|250
+|150
+| -
+
+4+|
+
+|``J``{nbsp}``J``{nbsp}``J``{nbsp}``J``
+|400
+|40
+|40
+
+4+|
+
+|``Q``{nbsp}``Q``{nbsp}``Q``{nbsp}``Q``
+|600
+|60
+|60
+
+4+|
+
+|``K``{nbsp}``K``{nbsp}``K``{nbsp}``K``
+|800
+|80
+|80
+
+4+|
+
+|``A``{nbsp}``A``{nbsp}``A``{nbsp}``A``
+|1000
+|500
+|100
+|===
