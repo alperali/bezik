@@ -54,7 +54,7 @@ Desteden son kağıtlar çekildikten sonra, varsa yerdeki açık kağıtlar ele 
 Bu bölümde el almak, el alınamıyorsa yerdeki ile aynı renk kağıt atmak zorunludur.
 Son eli alan bu turda koz tablosu açılmışsa 250, sadece koz açılmışsa 40 oyun puanı kazanır.
 Her iki taraf aldığı eller içindeki brisk puanlarını toplayıp oyun puanına ekler.
-<<hükümler,Hükümler>>e göre oyun sonuçlanır.
+<<hükümler,Hükümler>>e göre tur sonuçlanır.
 
 == Maç
 . Normal bir oyunu kazanan 1 #maç puanı# alır. 2 normal oyundan sonra #sanvuar# oyunlarla maç devam eder. +
