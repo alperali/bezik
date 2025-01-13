@@ -59,11 +59,11 @@ Her iki taraf aldığı eller içindeki brisk puanlarını toplayıp oyun puanı
 == Maç
 . Normal bir oyunu kazanan 1 #maç puanı# alır. 2 normal oyundan sonra #sanvuar# oyunlarla maç devam eder. +
 Sanvuar oyunu kazanan 2 maç puanı alır. +
-#Vido# çekilmiş oyunu kazanan 2 katı maç puanı alır. +
+#Vido# çekilmiş oyunu kazanan 2 katı maç puanı alır. #Kontr vido# (2 defa vido) çekilmiş oyunu kazanan 4 katı maç puanı alır. +
 Kaybeden taraf 1500 puanın altındaysa #rubikon# olur ve kazanan 2 katı maç puanı alır. +
-Bir oyun sonunda kazanan taraf 8 maç puanına kadar alabilir (sanvuar + vido + rubikon).
 16 puana ulaşan maçı kazanır.
 
 . Vido çekilmiş sanvuar oyundan sonra normal oyunla devam edilir. +
-Vido çekildikten hemen sonra karşı taraf yenilgiyi kabul ederek oyunu bitirebilir.
+Vido çekildikten hemen sonra karşı taraf yenilgiyi kabul ederek oyunu bitirebilir. +
+İlk vidoyu çeken kontr vido çekemez.
 
