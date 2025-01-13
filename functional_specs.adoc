@@ -14,7 +14,7 @@ Puanlı kağıt gruplarını oluşturarak ve #brisk# denilen puanlı kağıtlar�
 4 adet standart 52'lik iskambil kağıdı destesinden 9'dan küçük kağıtların çıkarıldığı toplam 96 kağıtlık bir deste ile oynanır.
 
 === Terimler
-bezik:: :spades:``Q`` :diamonds:``J`` çifti
+bezik:: :spades:``Q``:diamonds:``J`` çifti
 brisk:: ``A`` veya ``10``
 koz:: Yere ilk açılan aynı renk ``K``{nbsp}``Q`` çiftin rengi
 tablo / seri:: Aynı renk ``A``{nbsp}``10``{nbsp}``K``{nbsp}``Q``{nbsp}``J`` grubu
