@@ -2,6 +2,4 @@
 A. Alper Atıcı <alper.goplay@gmail.com>
 :lang: tr
 
-2 kişiyle oynanan bir iskambil kağıdı oyunudur.
-
-* xref:functional_specs.adoc[İşlevsel belirlemeler]
+* xref:functional_reqs.adoc[İşlevsel gereksinimler]
