@@ -18,7 +18,7 @@ Büyükten küçüğe doğru kağıtların dizilişi: ``A``{nbsp}``10``{nbsp}``K
 #Marköz# denilen mandallı tahtalar kullanılır. +
 Grup puanları bir grup yere açıldığı anda, brisk puanları deste bittikten sonra sayılarak marköze yazılır.
 
-== Hükümler
+== [[hükümler]]Hükümler
 Deste bitince bir #oyun turu# tamamlanmış olur.
 Tur sonunda 3000 puana ulaşan taraf ##oyun##u kazanır.
 3000 puana ulaşan yoksa bir tur daha oynanır.
@@ -53,8 +53,8 @@ Dönük oyuncu bir el almadan bu durumdan kurtulamaz. Oyun turu bitene kadar dö
 Desteden son kağıtlar çekildikten sonra, varsa yerdeki açık kağıtlar ele alınarak, 9 el daha oynanır.
 Bu bölümde el almak, el alınamıyorsa yerdeki ile aynı renk kağıt atmak zorunludur.
 Son eli alan bu turda koz tablosu açılmışsa 250, sadece koz açılmışsa 40 oyun puanı kazanır.
-Her iki taraf aldığı eller içindeki brisk puanlarını da hesaplayıp tur sonu oyun puanına ekler.
-<<4-hükümler,Hükümlere>> göre oyun sonuçlanır.
+Her iki taraf aldığı eller içindeki brisk puanlarını toplayıp oyun puanına ekler.
+<<hükümler,Hükümler>>e göre oyun sonuçlanır.
 
 == Maç
 . Normal bir oyunu kazanan 1 #maç puanı# alır. 2 normal oyundan sonra #sanvuar# oyunlarla maç devam eder. +
