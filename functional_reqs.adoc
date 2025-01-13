@@ -1,8 +1,8 @@
 = Bezik
 A. Alper Atıcı <alper.goplay@gmail.com>
 :lang: tr
-:açıklama: Bezik oyunu için işlevsel belirlemeler
-:description: Functional specifications for Türk Bezik
+:açıklama: Bezik oyunu için işlevsel gereksinimler
+:description: Functional requirements for Türk Bezik
 :sectnums:
 
 2 kişiyle oynanan bir iskambil kağıdı oyunudur.
